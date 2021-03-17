@@ -1,4 +1,4 @@
-/*
+
 let members = ["Mary", "Sam", "Joey", "Paul", "Mike", "Char", "Jenny", "Kennedy", "Kaden", "Kurt", "Anne"]
 let i = 0
 //let newMember = inptUsername.value
@@ -13,4 +13,3 @@ btnEnter.onclick = function() {
             }
 }
 
-*/
